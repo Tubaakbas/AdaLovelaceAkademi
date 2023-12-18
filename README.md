@@ -1,6 +1,6 @@
-#Veri Bilimi Akademi Süreci Boyunca Haftalık Olarak Yapılanların Paylaşılması 
+# Veri Bilimi Akademi Süreci Boyunca Haftalık Olarak Yapılanların Paylaşılması 
 
-Week 2
+# Week 2
 - Solutions for Exercise
 - Python Data Types
 - Python Classes
@@ -8,13 +8,13 @@ Week 2
 - Pandas Series
 - Pandas Dataframes
 
-Week 3
+# Week 3
 - Solutions for Exercise
 - Iris Data
 - Dataviz
 - Dataviz Exercise
 
-Week 4
+# Week 4
 - Web Scraping
 - Web Scraping Exercise
 - Intro to API
