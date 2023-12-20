@@ -19,3 +19,4 @@
 - Web Scraping Exercise
 - Intro to API
 - Exercise with Youtube API
+- Solulitons for Exercise
