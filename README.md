@@ -26,4 +26,6 @@
 
 # Week 5
 
-- Concepts Exercies
+- Concepts Exercies (**name** and **main**)
+- Lesson for youtube-api-project
+- New project: COVID19-API-project/IMDb-Project
